@@ -1,0 +1,9 @@
+
+Arithmetic Operators
+The Big Picture
+
+Imagine Python as a calculator.
+
+Arithmetic operators are simply the symbols that tell Python what mathematical operation you want it to perform.
+
+Everything from calculating loss functions in ML to finding the average of a dataset eventually boils down to these operators.
