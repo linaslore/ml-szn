@@ -1,3 +1,8 @@
+When performing data analysis, it is necessary to perform preprocessing to understand and prepare the data. In this chapter, we will introduce the basic usage of a library commonly used in data analysis called Pandas.
+
+Pandas is a useful library to process table data. In most real-world scenarios, data that you will find are not in ready-to-use format and require **data cleaning**.
+In this notebook, we will look at Pandas' functionalities using an actual dataset that can be found online.
+
 
 pd.read_csv()
 
