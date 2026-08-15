@@ -8,7 +8,25 @@ Arithmetic operators are simply the symbols that tell Python what mathematical o
 
 Everything from calculating loss functions in ML to finding the average of a dataset eventually boils down to these operators.
 
+I want specific columns
+        ↓
+      df[...]
 
+I want specific positions
+        ↓
+      .iloc
+
+I want specific labels
+        ↓
+      .loc
+
+I want rows satisfying conditions
+        ↓
+   Boolean masking
+
+I want to sort
+        ↓
+   sort_values()
 df[0:3]	rows 0–2
 df.iloc[0:3]	rows 0–2
 df.iloc[0, 3]	row 0, column 3
